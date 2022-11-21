@@ -1,0 +1,8 @@
+prefix=/home/perple/nerf_demo/devel
+
+Name: keyboard_callback
+Description: Description of keyboard_callback
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

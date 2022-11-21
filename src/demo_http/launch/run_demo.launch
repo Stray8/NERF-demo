@@ -1,0 +1,4 @@
+<launch>
+    <node pkg = "demo_http" type = "px4ctrl_http_node" name = "px4ctrl_http_node"/>
+    <node pkg = "sync_trans" type = "trans_node" name = "trans_node"/>
+</launch>
